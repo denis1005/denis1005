@@ -13,6 +13,6 @@ I' m currently a student at softuni university
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=denis1005&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://www.freecodecamp.org/news/content/images/2019/07/best-js-meme-to-date-2.png" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
