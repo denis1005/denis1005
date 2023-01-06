@@ -1,5 +1,5 @@
 # 💫 About Me:
-I' m currently a student at softuni university
+I am a recent graduate of Softuni university, where I completed a degree in JS web development. While at university, I gained a solid foundation in web programming and developed practical skills in a variety of technologies, including CSS3, JavaScript, HTML5, Firebase, Angular.js, React, and MongoDB. I am eager to use my skills and passion for software development to make a positive impact in the industry. I am currently seeking opportunities to apply my knowledge and grow as a developer.
 
 
 ## 🌐 Socials:
